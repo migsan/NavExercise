@@ -59,6 +59,14 @@ The keyboard navigation is ensured by using tab to navigate through the elements
 
 Minimum SEO is present in the page with the use of the propper heading elements and semantic tags within the document.
 
+### Task runner
+
+The project uses grunt.js to do three main tasks:
+
+* Less: compiles the less file into main.css which is used by the exercise.
+* JShint: to help lint javascript error during the development.
+* Watch: to look for changes over save of the files and recompile the project.
+
 ## Overview
 
 This exercise will have the candidate build a responsive site navigation driven by an AJAX request.
@@ -69,14 +77,6 @@ Here are the guidelines for this exercise
 * Chrome compliance is all that's required, all functions and features available in Chrome are in play.
 * Nav must be responsive.
 * Code must run after the following command, please ensure your code runs as you expect it to from a fresh checkout with these commands before submission.
-
-## Task runner
-
-The project uses grunt.js to do three main tasks:
-
-* Less: compiles the less file into main.css which is used by the exercise.
-* JShint: to help lint javascript error during the development.
-* Watch: to look for changes over save of the files and recompile the project.
 
 ```
 $ npm i && npm start
