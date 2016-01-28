@@ -1,7 +1,7 @@
 /**
  * Main module for the navigation structure
  * Miguel Angel Santamaría
- * miguel.santamaria@gmail.com
+ * santamaria.migue@gmail.com
  */
 
 var NavModule = (function (){
