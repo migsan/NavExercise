@@ -1,7 +1,7 @@
 /**
  * Broadcasting module to listen and broadcast events
  * Miguel Angel Santamaría
- * miguel.santamaria@gmail.com
+ * santamaria.migue@gmail.com
  */
 
 var signal = {
