@@ -2,7 +2,7 @@
  * Main function for the navigation
  * Fires the functions defined in the module and uses the breoadcast module
  * Miguel Angel Santamaría
- * miguel.santamaria@gmail.com
+ * santamaria.migue@gmail.com
  */
 
 (function() {
